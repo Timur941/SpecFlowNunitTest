@@ -1,0 +1,19 @@
+﻿{
+  "JetBrains (главная)": "https://www.jetbrains.com/ru-ru/",
+  "JetBrains Поддержка (кнопка)": "//nav[@class='main-menu wt-col-inline'] / div[@data-test-marker='Поддержка']",
+  "JetBrains Документация по продуктам": "//a[@class='main-submenu-item__link' and @href='/help/']",
+  "IntelliJ IDEA overview": "https://www.jetbrains.com/help/idea/discover-intellij-idea.html",
+  "JetBrains (авторизация)": "https://account.jetbrains.com/login",
+  "Поле логина": "//input[@name='username']",
+  "Поле пароля": "//input[@name='password']",
+  "Кнопка логина": "//button[contains(@class, 'sign-in-button')]",
+  "Текст ошибки авторизации": "//div[text()='Incorrect username and/or password']",
+  "Wolfram (главная)": "https://www.wolframalpha.com",
+  "Plotting & Graphics": "//span[text()='Plotting & Graphics']/ancestor::a",
+  "Plot a function of one variable": "//div[@class='example-wrap']/a[@class='example']",
+  "Уравнение": "plot x^2 + 4x",
+  "Compute input": "//button[@aria-describedby='tooltip1']",
+  "Wolfram графики": "//div[@class='_8J16o']/img",
+  "Поле ввода уравнений": "//input[contains(@class, '_2oXzi')]",
+  "Очистить поле ввода уравнений": "//button[@class='_10um4 _1iCqj _19Boa _1oLFT']"
+}
